@@ -1,4 +1,6 @@
-0)Escreva um algoritmo para imprimir os números de 1 (inclusive) a 10 (inclusive) em ordem
+## Lista de Exercicio da Aula 2
+
+0) Escreva um algoritmo para imprimir os números de 1 (inclusive) a 10 (inclusive) em ordem
 crescente.
 1) Escreva um algoritmo para imprimir os números de 1 (inclusive) a 10 (inclusive) em ordem
 decrescente.
