@@ -32,4 +32,4 @@ Aula 3:
   - [Listas/Arrays](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Indexed_collections) - Conjunto de valores ordenados que você o referencia com um nome e um índice.
   - [Objetos](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos) - Objetos tangíveis da vida real. Em JavaScript, um objeto é uma entidade independente, com propriedades e tipos. 
 
-
+Revisão
